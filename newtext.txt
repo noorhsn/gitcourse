@@ -1,3 +1,6 @@
 text added in main branch.
 To be merged to main branch.
 This is main.
+newBranch
+This is main.
+main
